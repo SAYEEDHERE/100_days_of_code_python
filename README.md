@@ -16,7 +16,7 @@ Welcome to my Python learning journey! This repository contains all my daily cod
 | 3 | Functions, Conditionals | [Day 3 Treasure Island](https://github.com/SAYEEDHERE/Day_3-Puzzle-game) |
 | 4 | Randomization, Lists | [Day 4 Rock Paper Scissors](https://github.com/SAYEEDHERE/Day_4-Rock-paper-scissors) |
 | 5 | Loops | [Day 5 Password Generator](https://github.com/SAYEEDHERE/Day_5-password_generator) |
-| 6 |  | Defining and calling function , Indentation in python , While loops | (#no project their was a game called ESCAPING THE MAZE has to be solved using the concept learn |
+| 6 | Defining and calling function , Indentation in python , While loops | [#no project their was a game called ESCAPING THE MAZE has to be solved using the concept learn] |
 | 7 | --- | Coming soon! 🎯 |
 
 > 📌 I'm updating this daily — stay tuned for new projects!
